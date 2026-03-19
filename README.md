@@ -1,8 +1,3 @@
-<style type="text/css">
-.classe {
-  color: #e1e100;
-}
-</style>  
 Salut !
 <br />
 Je suis le <b>Cathogeek</b>. 
@@ -13,4 +8,4 @@ Fouillez mes repositories publics et vous trouverez peut-être votre bonheur (ou
 <br />
 Bref, je suis un catho et je me considère comme un geek. Je code parfois pendant mon temps libre. 
 <hr />
-Donc si vous êtes interéssé par un <span type="classe">langage de programmation francophone</span>, un <span type="classe">jeu en trois dimensions</span> ou encore un <span type="classe">VTT sous licence libre</span> qui a échoué, faites-vous plaisir !
+Donc si vous êtes interéssé par un <span style="color: #e1e100;">langage de programmation francophone</span>, un <span style="color: #e1e100;">jeu en trois dimensions</span> ou encore un <span style="color: #e1e100;">VTT sous licence libre</span> qui a échoué, faites-vous plaisir !
