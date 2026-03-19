@@ -1,2 +1,9 @@
-Salut ! Je suis le <b>Cathogeek</b>. Fouillez mes repositories publics et vous trouverez peut-être votre bonheur (ou peut-être pas... après tout qu'est-ce que le bonheur ?).
+Salut !
+<br />
+Je suis le <b>Cathogeek</b>. 
+<br />
+<hr />
+<br />
+Fouillez mes repositories publics et vous trouverez peut-être votre bonheur (ou peut-être pas... après tout qu'est-ce que le bonheur ?)
+<br />
 Bref, je suis un catho et je me considère comme un geek. Je code parfois pendant mon temps libre. Donc si vous êtes interéssé par un langage de programmation francophone, un jeu en trois dimensions ou encore un VTT sous licence libre qui a échoué...eh bien je vous en prie !
